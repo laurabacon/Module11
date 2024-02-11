@@ -15,7 +15,7 @@ In this app you can write a note and save it.
 
 ## Installation
 
-Express
+Express. Please visit the deployed link:
 
 ## Usage
 
